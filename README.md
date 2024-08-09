@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>learning Mode<br>🌱 I’m currently learning:<br>New Things <br>💬 Ask me about:<br>JavaScript, React,Phython,C and any general software development questions.<br>⚡ Fun fact:<br>Coder are Biggest Loser
+🔭 I’m currently working on:<br>Portfolio website<br>🌱 I’m currently learning:<br> Django framework <br>💬 Ask me about:<br>JavaScript, React,Phython,C and any general software development questions.<br>⚡ Fun fact:<br>Coder are Biggest Loser
 
 
 # 💻 Tech Stack:
