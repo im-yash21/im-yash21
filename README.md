@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving coding skill<br><br>👯 I’m looking to collaborate on:<br>Backend Development<br><br>🌱 I’m currently learning:<br>DSA and Django<br><br>💬 Ask me about:<br>JavaScript,Python,C++,C, and any general software development questions.<br><br>⚡ Fun fact:<br>Watch Romantic movie it help for alone.
+🔭 I’m currently working on:<br>Improving coding skill<br><br>👯 I’m looking to collaborate on:<br>Backend Development<br><br>🌱 I’m currently learning:<br>DSA and Django<br><br>💬 Ask me about:<br>JavaScript,Python,C++,C, and any general software development questions.<br>
 
 
 ## 🌐 Socials:
